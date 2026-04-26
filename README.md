@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ae656575-7537-400c-ab81-1d4a1ed8591b" width="60%" alt="Banner" />
+</div>
 
-<!--
-**Khesig1/Khesig1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3 align="center">👤 About me</h3>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="70%" style="border: none;">
+      Merhaba! Ben <b>Necmettin Özdemir</b>. Trakya Üniversitesi'nde 2. sınıf Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme alanında çalışıyorum.<br><br>
+      💼 Şu anda <b>SecHard</b> bünyesinde stajyer olarak aktif görev alıyorum.<br>
+      🚀 <b>Monolith</b> adında kişisel bir web projesi üzerinde çalışıyorum.<br>
+      🐧 Linux sistemleri, Docker ve web teknolojileri ana odak noktam.
+    </td>
+    <td width="30%" align="center" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/6a53fe8d-422f-4b06-9814-544ca5526074" width="180" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">⚙️ Technologies</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<br>
+
+<h3 align="center">📈 Statistics</h3>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Khesig1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Khesig1&theme=dark&hide_border=true&background=0D1117" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khesig1&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%" />
+</div>
