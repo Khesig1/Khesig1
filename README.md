@@ -15,11 +15,13 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="70%" style="border: none;">
-      Merhaba! Ben <b>Necmettin Özdemir</b>. Trakya Üniversitesi'nde 2. sınıf Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme alanında çalışıyorum.<br><br>
-      💼 Şu anda <b>SecHard</b> bünyesinde stajyer olarak aktif görev alıyorum.<br>
-      🚀 <b>Monolith</b> adında kişisel bir web projesi üzerinde çalışıyorum.<br>
-      🐧 Linux sistemleri, Docker ve web teknolojileri ana odak noktam.
-    </td>
+Hello! I'm <b>Necmettin Özdemir</b>,    
+<br>
+Here's what I am currently focused on:
+
+* 💻 **Freelance Web Development**: Delivering custom, secure, and user-centric web applications to clients.
+* 💼 **Internship at SecHard**: Gaining professional experience and contributing to software projects in a security-focused environment.
+* 🧠 **Core Interests**: My expertise and future focus lies at the intersection of **Cyber Security** and **Artificial Intelligence (AI)** within the modern web ecosystem.
     <td width="30%" align="center" style="border: none;">
       <img src="https://github.com/user-attachments/assets/6a53fe8d-422f-4b06-9814-544ca5526074" width="180" />
     </td>
