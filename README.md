@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 align="center">👤 About me</h3>
+<h3 align="center">🧙🏽‍♂️ About me</h3>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="70%" style="border: none;">
@@ -30,7 +30,7 @@ Here's what I am currently focused on:
 
 <br>
 
-<h3 align="center">⚙️ Technologies</h3>
+<h3 align="center">📜 Technologies</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
