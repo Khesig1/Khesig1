@@ -49,7 +49,7 @@ Here's what I am currently focused on:
 
 <br>
 
-<h3 align="center">📈 Statistics</h3>
+<h3 align="center">🔮 Statistics</h3>
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Khesig1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Khesig1&theme=dark&hide_border=true&background=0D1117" />
