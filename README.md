@@ -22,6 +22,8 @@ Here's what I am currently focused on:
 *  Freelance Web Development: Delivering custom, secure, and user-centric web applications to clients.
 *  Internship at SecHard: Gaining professional experience and contributing to software projects in a security-focused environment.
 *  Core Interests: My expertise and future focus lies at the intersection of **Cyber Security** and **Artificial Intelligence (AI)** within the modern web ecosystem.
+*  Academic Development: Currently advancing my studies in Computer Programming, building a solid theoretical foundation to perfectly complement my hands-on industry experience.
+*  Personal Branding & Projects: Actively developing "Monolith," a personal web project designed to showcase my technical capabilities, portfolio, and evolving development stack.
     <td width="30%" align="center">
       <img src="https://github.com/user-attachments/assets/d1c9956f-2529-46c1-ba30-a07b6a8ec3c1" width="260" />
     </td>
