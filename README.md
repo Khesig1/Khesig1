@@ -3,22 +3,22 @@
 </div>
 
 <br>
-
 <br>
 
 <h3 align="center">🧙🏽‍♂️ About me</h3>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="70%" style="border: none;">
-Hello! I'm <b>Necmettin Özdemir</b>,    
-<br>
-Here's what I am currently focused on:
-
-*  Freelance Web Development: Delivering custom, secure, and user-centric web applications to clients.
-*  Internship at SecHard: Gaining professional experience and contributing to software projects in a security-focused environment.
-*  Core Interests: My expertise and future focus lies at the intersection of **Cyber Security** and **Artificial Intelligence (AI)** within the modern web ecosystem.
-*  Academic Development: Currently advancing my studies in Computer Programming, building a solid theoretical foundation to perfectly complement my hands-on industry experience.
-*  Personal Branding & Projects: Actively developing "Monolith," a personal web project designed to showcase my technical capabilities, portfolio, and evolving development stack.
+      Hello! I'm <b>Necmettin Özdemir</b>,<br><br>
+      Here's what I am currently focused on:
+      <ul>
+        <li><b>Freelance Web Development:</b> Delivering custom, secure, and user-centric web applications to clients.</li>
+        <li><b>Internship at SecHard:</b> Gaining professional experience and contributing to software projects in a security-focused environment.</li>
+        <li><b>Core Interests:</b> My expertise and future focus lies at the intersection of <b>Cyber Security</b> and <b>Artificial Intelligence (AI)</b> within the modern web ecosystem.</li>
+        <li><b>Academic Development:</b> Currently advancing my studies in Computer Programming, building a solid theoretical foundation to perfectly complement my hands-on industry experience.</li>
+        <li><b>Personal Branding & Projects:</b> Actively developing "Monolith," a personal web project designed to showcase my technical capabilities, portfolio, and evolving development stack.</li>
+      </ul>
+    </td>
     <td width="30%" align="center">
       <img src="https://github.com/user-attachments/assets/d1c9956f-2529-46c1-ba30-a07b6a8ec3c1" width="260" />
     </td>
@@ -56,8 +56,7 @@ Here's what I am currently focused on:
 
 <h3 align="center">🔮 Statistics</h3>
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Khesig1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Khesig1&theme=dark&hide_border=true&background=0D1117" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Khesig1&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </div>
 <br>
 <div align="center">
