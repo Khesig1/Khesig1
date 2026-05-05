@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="center">📜 Technologies</h3>
+<h3 align="center">📜 Technologie</h3>
 <div align="center">
   <!-- Diller ve Temel Web -->
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
