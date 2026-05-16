@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<h3 align="center">🧙🏽‍♂️ About e</h3>
+<h3 align="center">🧙🏽‍♂️ About me</h3>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="70%" style="border: none;">
